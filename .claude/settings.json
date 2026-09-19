@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "pagelove": {
+      "source": {
+        "source": "github",
+        "repo": "pagelove/pagelove-marketplace"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "pagelove-dev@pagelove": true
+  }
+}
